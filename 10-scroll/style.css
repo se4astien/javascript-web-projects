@@ -60,6 +60,7 @@ Global Styles
 ===============
 */
 html {
+  /* scroll effect when clicking menu*/
   scroll-behavior: smooth;
 }
 *,
